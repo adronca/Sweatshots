@@ -1,0 +1,51 @@
+{
+    "sweatshots": [
+        {
+            "id": "0",
+            "name": "Nike Courtside Paris",
+            "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d37d7d02-f2f1-4d47-890d-ff4f93175074/худи-sportswear-MN7trf.jpg",
+            "price": "5 690",
+            "sale": "0"
+        },
+
+        {
+            "id": "1",
+            "name": "Nike Courtside Paris",
+            "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/cj2wat4kkw2d7rdylcl1/худи-sportswear-club-fleece-32Tm3L.jpg",
+            "price": "5 690",
+            "sale": "0"
+        },
+
+        {
+            "id": "2",
+            "name": "Nike Courtside Paris",
+            "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/68976f76-2f1e-460c-b408-f5456bb6e61e/худи-giannis-naija-vLtwN7.jpg",
+            "price": "5 690",
+            "sale": "0"
+        },
+
+        {
+            "id": "3",
+            "name": "Nike Courtside Paris",
+            "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d37d7d02-f2f1-4d47-890d-ff4f93175074/худи-sportswear-MN7trf.jpg",
+            "price": "5 690",
+            "sale": "0"
+        },
+
+        {
+            "id": "4",
+            "name": "Nike Courtside Paris",
+            "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/cj2wat4kkw2d7rdylcl1/худи-sportswear-club-fleece-32Tm3L.jpg",
+            "price": "5 690",
+            "sale": "0"
+        },
+
+        {
+            "id": "5",
+            "name": "Nike Courtside Paris",
+            "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/68976f76-2f1e-460c-b408-f5456bb6e61e/худи-giannis-naija-vLtwN7.jpg",
+            "price": "5 690",
+            "sale": "0"
+        }
+    ]
+}
